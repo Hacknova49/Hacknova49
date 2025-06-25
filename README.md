@@ -81,16 +81,26 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hacknova49.Hacknova49" alt="Visitor Badge" />
 </div>
 
-![Cowboy Bebop Eating GIF](https://github.com/user-attachments/assets/293db32d-b5f0-4ae7-a2cd-d8b90450f48f)
+<div align="center">
+  <table style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
+    <tr>
+      <td style="border: none; padding: 0; width: 50%; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/293db32d-b5f0-4ae7-a2cd-d8b90450f48f" alt="Cowboy Bebop Eating GIF" width="100%">
+      </td>
+      <td style="border: none; padding: 0; width: 50%; text-align: center;">
+        <img src="https://github.com/user-attachments/assets/e0c8d5f7-9d48-4de5-966e-8de45b81bbc0" alt="Sweating Video Game GIF by Raw Fury" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-<div align="center">
-<a href='https://wallpaperwaifu.com/pixel-art/may-sitting-near-waterfall-pokemon-emerald-pixel-live-wallpaper/' target='_blank'><img src='https://wallpaperwaifu.com/wp-content/uploads/2023/01/may-sitting-near-waterfall-pokemon-emerald-pixel-thumb-1500x844.jpg' title='May Sitting Near Waterfall Pokemon Emerald Pixel Live Wallpaper Wallpaper'></a>
+<div align="center">  
+  
+![may-sitting-near-waterfall-pokemon-emerald-pixel-wallpaperwaifu-com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f8d7c04c-ba5e-4d7c-adb0-63479ca673d0)
 </div>
----
-<div align="center">
-<a href='https://wallpaperwaifu.com/pixel-art/girl-smoking-in-the-rain-pixel-live-wallpaper/' target='_blank'><img src='https://wallpaperwaifu.com/wp-content/uploads/2022/09/girl-smoking-in-the-rain-pixel-thumb-1500x844.jpg' title='Girl Smoking In The Rain Pixel Live Wallpaper Wallpaper'></a>
-</div>
+
+
 
 
 
