@@ -1,8 +1,6 @@
 <!-- 🖼️ Fantasy Banner -->
 <div align="center">
-  <a href="https://wallpaperwaifu.com/fantasy/sheep-with-golem-live-wallpaper/" target="_blank">
-    <img src="https://wallpaperwaifu.com/wp-content/uploads/2019/10/sheep-with-golem-thumb-1500x844.jpg" alt="Sheep With Golem Live Wallpaper" width="100%" />
-  </a>
+  <img src="https://i.pinimg.com/originals/a8/83/04/a88304f4154feaa1c19fe5c009d9d98a.gif" alt="Pixel art person typing at computer" width="100%" />
 </div>
 
 ---
@@ -36,7 +34,12 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/pacman-contribution-graph.svg" alt="Pac‑Man Contribution Graph" width="100%" />
+</div>
 
+
+---
 <!-- 🔗 Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/swagata-mandal-788b76345" target="_blank">
@@ -78,18 +81,18 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hacknova49.Hacknova49" alt="Visitor Badge" />
 </div>
 
+![Cowboy Bebop Eating GIF](https://github.com/user-attachments/assets/293db32d-b5f0-4ae7-a2cd-d8b90450f48f)
+
 ---
-
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<a href='https://wallpaperwaifu.com/pixel-art/may-sitting-near-waterfall-pokemon-emerald-pixel-live-wallpaper/' target='_blank'><img src='https://wallpaperwaifu.com/wp-content/uploads/2023/01/may-sitting-near-waterfall-pokemon-emerald-pixel-thumb-1500x844.jpg' title='May Sitting Near Waterfall Pokemon Emerald Pixel Live Wallpaper Wallpaper'></a>
+</div>
+---
+<div align="center">
+<a href='https://wallpaperwaifu.com/pixel-art/girl-smoking-in-the-rain-pixel-live-wallpaper/' target='_blank'><img src='https://wallpaperwaifu.com/wp-content/uploads/2022/09/girl-smoking-in-the-rain-pixel-thumb-1500x844.jpg' title='Girl Smoking In The Rain Pixel Live Wallpaper Wallpaper'></a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/pacman-contribution-graph.svg" alt="Pac‑Man Contribution Graph" width="100%" />
-</div>
 
----
+
 
