@@ -52,12 +52,12 @@
 
 ---
 
-<!-- 📊 GitHub Contributions (Pacman Style) -->
+<!-- 📊 GitHub Contributions (Pacman Style)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 
 ---
@@ -80,9 +80,16 @@
 
 ---
 
-<!-- 🐍 Snake Animation -->
+
 <div align="center">
-  <img src="https://github.com/Hacknova49/Hacknova49/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hacknova49/Hacknova49/output/pacman-contribution-graph.svg" alt="Pac‑Man Contribution Graph" width="100%" />
+</div>
+
+---
+
