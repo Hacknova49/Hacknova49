@@ -117,7 +117,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -141,35 +141,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-width="95%"
-src="https://github-profile-trophy.vercel.app/?username=Hacknova49&theme=dracula&row=1&column=6&margin-w=15&margin-h=15"
-alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Hacknova49&theme=dracula&area=true&hide_border=true&custom_title=Hacknova49%20Contribution%20Graph"
-alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution 
 
 <div align="center">
 
@@ -193,7 +165,7 @@ alt="GitHub Contribution Graph"
 
 ---
 
-## 👀 Profile Visitors
+## Profile Visitors
 
 <div align="center">
 
