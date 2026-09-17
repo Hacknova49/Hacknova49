@@ -10,7 +10,6 @@
 
 ---
 
-## 💻 Tech Stack
 
 <div align="center">
 
@@ -207,7 +206,6 @@ alt="Profile Visitors"
 
 ---
 
-## 🎬 Anime & Gaming
 
 <div align="center">
 
@@ -240,8 +238,6 @@ alt="Gaming"
 </div>
 
 ---
-
-## 🌌 Pixel Art
 
 <div align="center">
 
